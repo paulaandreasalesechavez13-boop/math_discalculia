@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>F2E1FD</corfondo>
+        <corbanda>EE17A3</corbanda>
+        <cornavega>EE17A3</cornavega>
+        <cormensaxes>F2E1FD</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>¡TRABAJEMOS LA DISCALCULIA!</titulo>
+        <subtitulo>SUMA Y RESTA</subtitulo>
+        <autor>PAULA Y VALERIA</autor>
+        <logo>ChatGPT_Image_21_sept_2025,_03_55_36_p.m..png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >¡Muy bien, así se hace!</correcto>
+        <incorrecto son="" modo="1" >¡Sigue intentando, tu puedes!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-10">Trabajemos_la_discalculia.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Imagen2.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>trucos-para-ensenar-a-los-ninos-a-sumar-con-llevadas-lg.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#FF0080" face="Times New Roman" size="28"><b>APRENDIENDO A SUMAR</b><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Times New Roman" size="28">Para un niño con discalculia, la suma no siempre significa “juntar”, porque puede resultarle difícil comprender que dos números representan cantidades que se combinan. Muchas veces ve el signo “+” como algo abstracto que no entiende. Necesita apoyos visuales y concretos para darle sentido, por ejemplo, unir fichas, bloques o dibujos.<br>
+<br>
+</font><font color="#800080" face="Times New Roman" size="28"><u>Tips para maestros:</u><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Times New Roman" size="28"><li>Usar material manipulativo antes de los números.</li>
+<li>Emplear colores diferentes para cada grupo de objetos.</li>
+<li>Relacionar la suma con situaciones cotidianas (“tenías 2 galletas y te dieron 1 más”).</li>
+<li>Permitir que use la recta numérica o los dedos como apoyo.</li>
+<br>
+</font></p>
+<p align="left">
+<font color="#800080" face="Times New Roman" size="28"><u> Actividad sugerida:</u><br>
+</font><font color="#080000" face="Times New Roman" size="28">Juego de memoria con operaciones (ej. 2+3) y resultados (5), usando imágenes que representen la cantidad.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="sum_1.png">6</sopa>
+              <sopa enun="sum_2.png">9</sopa>
+              <sopa enun="sum_3.png">8</sopa>
+              <sopa enun="sum_4.png">7</sopa>
+              <sopa enun="sum_5.png">20</sopa>
+              <sopa enun="sum_6.png">19</sopa>
+              <sopa enun="sum_7.png">18</sopa>
+              <sopa enun="sum_8.png">15</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+              <fondo>1234567890</fondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="r1.png" texto="">suma_1.png</parellas>
+              <parellas imaxe="r2.png" texto="">suma_2.png</parellas>
+              <parellas imaxe="r3.png" texto="">suma_3.png</parellas>
+              <parellas imaxe="r4.png" texto="">suma_4.png</parellas>
+              <parellas imaxe="r5.png" texto="">suma_7.png</parellas>
+              <parellas imaxe="r6.png" texto="">suma_6.png</parellas>
+              <cfondo>F2E1FD</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>14</tipo>
+              <peza imaxe="caja_1.png" texto="" son="">cr1.png</peza>
+              <peza imaxe="caja_2.png" texto="" son="">cr2.png</peza>
+              <peza imaxe="caja_3.png" texto="" son="">cr3.png</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>RESTAR.png</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#800080" face="Times New Roman" size="28"><b>APRENDIENDO A RESTAR</b><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Times New Roman" size="28">Un niño con discalculia puede ver la resta como algo muy confuso, porque le cuesta entender la idea de quitar o comparar cantidades. A veces no logra visualizar qué significa el signo “–”, y puede confundirlo con la suma. Necesita actividades donde realmente vea y experimente la acción de quitar.<br>
+<br>
+</font><font color="#FF0080" face="Times New Roman" size="28"><u>Tips para maestros:</u><br>
+</font></p>
+<p align="left">
+<font color="#080000" face="Times New Roman" size="28"><li>Usar objetos que se puedan retirar físicamente (ej. poner 5 fichas y quitar 2).</li>
+<li>Representar con dibujos: tachar o borrar elementos.</li>
+<li>Relacionar con historias cercanas (“tenías 4 dulces, te comiste 1, ¿cuántos quedan?”).</li>
+<li>Reforzar que la resta no siempre significa “quedar en cero”, sino encontrar la diferencia.</li>
+<br>
+</font></p>
+<p align="left">
+<font color="#FF0080" face="Times New Roman" size="28"><u>Actividad sugerida:</u><br>
+</font><font color="#080000" face="Times New Roman" size="28">Juego de arrastrar y soltar en Edilim: mostrar 6 manzanas dibujadas, pedir que arrastre 2 fuera de la caja y luego contar cuántas quedan.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <imaxe>lupa_1.png</imaxe>
+              <texto><![CDATA[¡Anímate!]]></texto>
+              <resp texto="1234567890">18</resp>
+              <modo>0</modo>
+              <forma>1</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <imaxe>libro.png</imaxe>
+              <texto><![CDATA[¡Tu puedes!]]></texto>
+              <resp texto="1234567890">17</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+              <imaxe>bombillo.png</imaxe>
+              <texto><![CDATA[¡Realiza la siguiente suma!]]></texto>
+              <resp texto="">31</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>resta1.png</completa>
+              <completa>menos.png</completa>
+              <completa>resta_2.png</completa>
+              <completa>igual.png</completa>
+              <completa>respuesta.png</completa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>resta_3.png</completa>
+              <completa>menos.png</completa>
+              <completa>resta4.png</completa>
+              <completa>igual.png</completa>
+              <completa>resp.png</completa>
+        </paxina>
+    </libro>
+</lim>
